@@ -1,0 +1,3 @@
+D:/code/c++/QCQPsolver/QCQPsolver/build/CMakeFiles/qcqp.dir
+D:/code/c++/QCQPsolver/QCQPsolver/build/CMakeFiles/edit_cache.dir
+D:/code/c++/QCQPsolver/QCQPsolver/build/CMakeFiles/rebuild_cache.dir
